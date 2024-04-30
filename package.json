@@ -10,5 +10,8 @@
     "hello"
   ],
   "author": "Naresh Verma",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "pascal": "^0.0.0"
+  }
 }
