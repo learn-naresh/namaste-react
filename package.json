@@ -1,0 +1,14 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Naresh Verma who is building this application",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "Naresh Verma",
+  "license": "ISC"
+}
